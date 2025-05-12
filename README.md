@@ -6,5 +6,5 @@
 🛠️ Buscando minha primeira oportunidade como estagiário ou júnior  
 🚀 Em constante aprendizado e desenvolvendo projetos práticos
 
-🔗 Me conecte:
+🔗 Meu Contato:
 Email: julianolemos1101@gmail.com
