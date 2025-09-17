@@ -2,8 +2,7 @@
 
 🎓 Estudante de Desenvolvimento de Software Multiplataforma  
 💻 Estudando atualmente: Java, Python, JavaScript, SQL.  
-📚 Conhecimentos: HTML, CSS, Node.js, Bootstrap, SQL.  
-🛠️ Buscando minha primeira oportunidade como estagiário ou júnior  
+📚 Conhecimentos: HTML, CSS, Node.js, Bootstrap, SQL.    
 🚀 Em constante aprendizado e desenvolvendo projetos práticos
 
 🔗 Meu Contato:
